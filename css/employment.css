@@ -1,0 +1,39 @@
+
+/*************************************************
+ *  employment
+ **************************************************/
+
+section#employment.home-section .employment-responsibilities {
+    margin-bottom: 20px;
+}
+
+section#employment.home-section .header-col-1 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+section#employment.home-section .header-col-2 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+section#employment.home-section .employer {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+section#employment.home-section .project-title {
+    display: inline-block;
+    margin-bottom: 6px;
+}
+
+section#employment.home-section .project-summary {
+    font-size: 16px;
+    margin-bottom: 6px;
+}
+
+section#employment.home-section .employment-responsibilities {
+    font-size: 14px;
+    color: #9c9c9c;
+}
