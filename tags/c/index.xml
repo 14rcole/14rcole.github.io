@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Cole</title>
-    <link>http://14rcole.github.io/tags/c/index.xml</link>
+    <link>https://14rcole.github.io/tags/c/index.xml</link>
     <description>Recent content on Ryan Cole</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,30 +11,30 @@
     
     <item>
       <title>Colang</title>
-      <link>http://14rcole.github.io/project/colang/</link>
+      <link>https://14rcole.github.io/project/colang/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://14rcole.github.io/project/colang/</guid>
+      <guid>https://14rcole.github.io/project/colang/</guid>
       <description>&lt;p&gt;This project was more for the learning experience than anything else.  I wanted to discover a bit more about how functional programming languages are implemented.  So I decided to build one.  Along the way I&amp;rsquo;ve learned quite a bit about programming in C as well.  This includes everything from the linking, to setting a coding style, to formatting files and the code within them such that the project can easily be scaled as it grows.  The project is far from finished.  In fact, it&amp;rsquo;s just getting started!  That being said, I&amp;rsquo;ve already learned a ton from it and am really looking forward to what the rest of the project has in store.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ostree-Go</title>
-      <link>http://14rcole.github.io/project/ostree-go/</link>
+      <link>https://14rcole.github.io/project/ostree-go/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://14rcole.github.io/project/ostree-go/</guid>
+      <guid>https://14rcole.github.io/project/ostree-go/</guid>
       <description>&lt;p&gt;OSTree is a tool that combines a &amp;ldquo;git-like&amp;rdquo; model for committing and downloading bootable fiesystem trees, along with a layer for deploying them and managing the bootloader configuration.  It was designed so that package managers, system upgrade tools, etc. can use OSTree as a &amp;ldquo;deduplicating hardlink store.&amp;rdquo;  Recently, OSTree has become popular for use with containers.  However, many platforms that work with container do so in Go.  This library provides a set of Go bindings for OSTree that mimic the command line as much as possible so as it make it easy for container teams to use OSTree.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Best Practices in cgo Part I: Structs</title>
-      <link>http://14rcole.github.io/post/cgo-part1-structs/</link>
+      <link>https://14rcole.github.io/post/cgo-part1-structs/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
-      <guid>http://14rcole.github.io/post/cgo-part1-structs/</guid>
+      <guid>https://14rcole.github.io/post/cgo-part1-structs/</guid>
       <description>
 
 &lt;p&gt;One of the libraries that makes Go so powerful is cgo, a set of bindings for calling C code from Go.  This is called a Foreign Function Interface (or FFI) and despite the versatility it adds to Go, it can be a tricky library to use.  To help ease new users through some of the trickier aspects of cgo, here are some general best practices.&lt;/p&gt;

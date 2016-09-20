@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Ryan Cole</title>
-    <link>http://14rcole.github.io/post/index.xml</link>
+    <link>https://14rcole.github.io/post/index.xml</link>
     <description>Recent content in Post-rsses on Ryan Cole</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Best Practices in cgo Part I: Structs</title>
-      <link>http://14rcole.github.io/post/cgo-part1-structs/</link>
+      <link>https://14rcole.github.io/post/cgo-part1-structs/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
-      <guid>http://14rcole.github.io/post/cgo-part1-structs/</guid>
+      <guid>https://14rcole.github.io/post/cgo-part1-structs/</guid>
       <description>
 
 &lt;p&gt;One of the libraries that makes Go so powerful is cgo, a set of bindings for calling C code from Go.  This is called a Foreign Function Interface (or FFI) and despite the versatility it adds to Go, it can be a tricky library to use.  To help ease new users through some of the trickier aspects of cgo, here are some general best practices.&lt;/p&gt;
